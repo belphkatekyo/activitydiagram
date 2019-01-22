@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Use Case</title>
+<title>Activity Diagram</title>
 </head>
 <body>
 <img src="activity.jpg"/>
